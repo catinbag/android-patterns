@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies MVC</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="query_hint">Search by title</string>
+    <string name="favorites_only">Favorites only</string>
+    <string name="logout_button">Log out</string>
+</resources>
