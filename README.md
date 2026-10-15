@@ -18,7 +18,8 @@ One product with three screens (Login, List, Movie) is built five times: with MV
 ## Requirements
 
 - JDK 17
-- Android SDK 34
+- Android SDK 33
+- Gradle 7.5 (wrapper in this repository) and Android Gradle plugin 7.4.2
 
 ## Build and test
 

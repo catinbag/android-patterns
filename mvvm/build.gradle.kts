@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "org.demo.patterns.mvvm"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "org.demo.patterns.mvvm"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
     }
